@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(8, 8, 143);
+}
+
+.outer-container{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 50px;
+}
+
+.inner-container{
+  background-color: white;
+  padding: 20px;
+  line-height: 30px;
+  border-radius: 10px;
+}
+
+.inner-container h3{
+  text-align: center;
+}
+
+.paraCalc{
+  background-color: rgb(123, 138, 220);
+  border-radius: 4px;
+}
+
+input{
+  width: 100%;
+}
+
+button{
+  width: 102%;
+  margin-top: 10px;
+  background-color: rgb(90, 234, 90);
+  border-radius: 5px;
+  padding: 5px;
+}
